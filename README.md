@@ -1,5 +1,12 @@
 # Dell GPU rack / RJ45 interaction in Isaac Sim
 
+## Pixmo warehouse depalletizing
+
+The separate Pixmo environment implements the supplied warehouse plan using this project's existing Isaac Sim, PhysX, desktop, noVNC and artifact services. It includes the official FANUC CRX-30iA articulation, custom reusable chassis and suction tool, independent boxes, wooden pallets, and the reference video's powered roller conveyor.
+
+See [acceptance results](docs/pixmo_acceptance.md), [run/configuration guide](docs/pixmo_environment.md), [observed scene specification](references/pixmo/reference_scene_spec.md), and [asset provenance](references/pixmo/asset_sources.md). Run `sudo docker exec dell-rack-sim bash /workspace/pixmo/run.sh --headless --validate --check-reproducible --output /workspace/artifacts/pixmo-new` with a new output directory. See [repository contents and setup](docs/repository.md) for cloning and the files retained in Git. Existing rack demonstrations below remain available.
+
+
 ## 16-port cable-transfer demo — contact-driven latch
 
 The management switch now has a row of 16 independently addressable RJ45 sockets (01–16, left to right). Use `--port-row` to run this scene. Each socket has open collision geometry, measured seating detection, retention and an independent connection LED. The same dynamic plug/cable is released, withdrawn clear of the panel, translated sideways and inserted into another socket. The automatic demo sweeps along the row and reverses at each end; it does not teleport the plug or reconnect it by changing a label.

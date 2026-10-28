@@ -1,0 +1,93 @@
+{
+  "passed": true,
+  "completed": true,
+  "error": null,
+  "validation_scope": "scene_and_render",
+  "checks": [
+    {
+      "name": "six_fanuc_joints_per_robot",
+      "passed": true,
+      "count": 6
+    },
+    {
+      "name": "official_joint_axes",
+      "passed": true,
+      "axes": [
+        "Z",
+        "Y",
+        "Y",
+        "X",
+        "Y",
+        "X"
+      ]
+    },
+    {
+      "name": "articulation_root",
+      "passed": true
+    },
+    {
+      "name": "six_runtime_dofs",
+      "passed": true,
+      "names": [
+        "J3",
+        "J4",
+        "J2",
+        "J5",
+        "J1",
+        "J6"
+      ]
+    },
+    {
+      "name": "independent_boxes_mass_collision_friction",
+      "passed": true,
+      "count": 46
+    },
+    {
+      "name": "separate_massed_gripper_on_wrist",
+      "passed": true,
+      "mass_kg": 3.200000047683716
+    },
+    {
+      "name": "official_joint_frames_and_limits_preserved",
+      "passed": true
+    },
+    {
+      "name": "asset_dependencies_resolve",
+      "passed": true,
+      "missing": [],
+      "layers": 16
+    },
+    {
+      "name": "stacks_settle_stably",
+      "passed": true,
+      "max_horizontal_drift_m": 5.8132101727660224e-06,
+      "box_count": 46
+    },
+    {
+      "name": "boxes_rest_on_pallets_without_levitation",
+      "passed": true,
+      "max_height_error_m": 0.0005114803314208993
+    },
+    {
+      "name": "initial_no_self_collision",
+      "passed": true,
+      "contact_pairs": {}
+    },
+    {
+      "name": "out_of_reach_suction_rejected",
+      "passed": true
+    }
+  ],
+  "transfers": [],
+  "suction_events": [],
+  "physics_steps": 1745,
+  "physics_dt": 0.004166666666666667,
+  "scene": "/workspace/assets/environments/pixmo_depalletizing/pixmo_depalletizing.usd",
+  "contact_statistics": {
+    "reports": 9637,
+    "self_contact_reports": 0,
+    "pairs": {},
+    "max_penetration_m": 2.293014040333219e-05,
+    "penetration_pairs": {}
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "reopen_pixmo.usd",
+      "passed": true
+    },
+    {
+      "name": "reopen_mobile_base.usd",
+      "passed": true
+    },
+    {
+      "name": "reopen_vacuum_gripper.usd",
+      "passed": true
+    },
+    {
+      "name": "reopen_warehouse.usd",
+      "passed": true
+    },
+    {
+      "name": "reopen_pallet.usd",
+      "passed": true
+    },
+    {
+      "name": "reopen_depalletizing_environment.usd",
+      "passed": true
+    },
+    {
+      "name": "reopen_pixmo_depalletizing.usd",
+      "passed": true
+    },
+    {
+      "name": "original_fanuc_license_and_notices",
+      "passed": true
+    },
+    {
+      "name": "deterministic_composed_geometry",
+      "passed": true,
+      "original_sha256": "8045ff07acbe7c0cdd79b00c7070118b73581329a2e71568ac12af68a73141f4",
+      "rebuild_sha256": "8045ff07acbe7c0cdd79b00c7070118b73581329a2e71568ac12af68a73141f4"
+    }
+  ]
+}

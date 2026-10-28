@@ -1,0 +1,412 @@
+{
+  "passed": true,
+  "completed": true,
+  "error": null,
+  "validation_scope": "three_box_task",
+  "checks": [
+    {
+      "name": "six_fanuc_joints_per_robot",
+      "passed": true,
+      "count": 6
+    },
+    {
+      "name": "official_joint_axes",
+      "passed": true,
+      "axes": [
+        "Z",
+        "Y",
+        "Y",
+        "X",
+        "Y",
+        "X"
+      ]
+    },
+    {
+      "name": "articulation_root",
+      "passed": true
+    },
+    {
+      "name": "six_runtime_dofs",
+      "passed": true,
+      "names": [
+        "J3",
+        "J4",
+        "J2",
+        "J5",
+        "J1",
+        "J6"
+      ]
+    },
+    {
+      "name": "independent_boxes_mass_collision_friction",
+      "passed": true,
+      "count": 46
+    },
+    {
+      "name": "separate_massed_gripper_on_wrist",
+      "passed": true,
+      "mass_kg": 3.200000047683716
+    },
+    {
+      "name": "official_joint_frames_and_limits_preserved",
+      "passed": true
+    },
+    {
+      "name": "asset_dependencies_resolve",
+      "passed": true,
+      "missing": [],
+      "layers": 16
+    },
+    {
+      "name": "stacks_settle_stably",
+      "passed": true,
+      "max_horizontal_drift_m": 5.8132101727660224e-06,
+      "box_count": 46
+    },
+    {
+      "name": "boxes_rest_on_pallets_without_levitation",
+      "passed": true,
+      "max_height_error_m": 0.0005114803314208993
+    },
+    {
+      "name": "initial_no_self_collision",
+      "passed": true,
+      "contact_pairs": {}
+    },
+    {
+      "name": "out_of_reach_suction_rejected",
+      "passed": true
+    },
+    {
+      "name": "overweight_suction_rejected",
+      "passed": true
+    },
+    {
+      "name": "box_lifted_Box_003",
+      "passed": true,
+      "lift_m": 0.2799564599990845
+    },
+    {
+      "name": "box_follows_wrist_Box_003",
+      "passed": true,
+      "relative_drift_m": 8.764496622666155e-07
+    },
+    {
+      "name": "released_box_Box_003",
+      "passed": true,
+      "before": [
+        -1.806954423955176e-05,
+        -1.1797329187393188,
+        0.9069198966026306
+      ],
+      "after": [
+        0.18698538839817047,
+        -1.179646611213684,
+        0.8849999904632568
+      ],
+      "expected_z": 0.885
+    },
+    {
+      "name": "box_lifted_Box_011",
+      "passed": true,
+      "lift_m": 0.2799590826034546
+    },
+    {
+      "name": "box_follows_wrist_Box_011",
+      "passed": true,
+      "relative_drift_m": 8.284692188753494e-07
+    },
+    {
+      "name": "released_box_Box_011",
+      "passed": true,
+      "before": [
+        4.624306529876776e-05,
+        -1.1796494722366333,
+        0.9068695306777954
+      ],
+      "after": [
+        0.1870938539505005,
+        -1.1795365810394287,
+        0.8849999904632568
+      ],
+      "expected_z": 0.885
+    },
+    {
+      "name": "box_lifted_Box_007",
+      "passed": true,
+      "lift_m": 0.27990877628326416
+    },
+    {
+      "name": "box_follows_wrist_Box_007",
+      "passed": true,
+      "relative_drift_m": 8.526238871433416e-07
+    },
+    {
+      "name": "released_box_Box_007",
+      "passed": true,
+      "before": [
+        -7.277358236024156e-05,
+        -1.1796929836273193,
+        0.907158613204956
+      ],
+      "after": [
+        0.18683885037899017,
+        -1.1795649528503418,
+        0.8849999308586121
+      ],
+      "expected_z": 0.885
+    },
+    {
+      "name": "base_stationary_during_arm_motion",
+      "passed": true,
+      "drift_m": 2.6071106466233102e-06
+    },
+    {
+      "name": "planar_x_y_yaw_drive",
+      "passed": true,
+      "before": [
+        [
+          1.3179366931126424e-08,
+          3.1171662158158142e-06,
+          -8.940696716308594e-07
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "after": [
+        [
+          0.030002418905496597,
+          0.030005058273673058,
+          1.0132789611816406e-06
+        ],
+        [
+          0.9997999668121338,
+          1.5511647854002396e-07,
+          3.509575851112415e-07,
+          0.02000065904686497
+        ]
+      ]
+    },
+    {
+      "name": "three_successful_transfers",
+      "passed": true,
+      "count": 3
+    },
+    {
+      "name": "pallets_remain_stationary",
+      "passed": true,
+      "max_drift_m": 0.0
+    },
+    {
+      "name": "joint_limits_respected",
+      "passed": true,
+      "max_violation_rad": 0.0
+    },
+    {
+      "name": "finite_stable_physics",
+      "passed": true,
+      "max_box_speed_m_s": 1.265614498359172
+    },
+    {
+      "name": "contacts_observed_no_deep_interpenetration",
+      "passed": true,
+      "contact_reports": 220514,
+      "max_penetration_m": 3.093831764999777e-05
+    }
+  ],
+  "transfers": [
+    {
+      "box": "/World/Environment/Boxes/Source/Box_003",
+      "start": [
+        -0.28400328755378723,
+        1.0060008764266968,
+        1.159999966621399
+      ],
+      "lift": [
+        -0.2837813198566437,
+        1.0060638189315796,
+        1.4399564266204834
+      ],
+      "release": [
+        -1.806954423955176e-05,
+        -1.1797329187393188,
+        0.9069198966026306
+      ],
+      "settled": [
+        0.18698538839817047,
+        -1.179646611213684,
+        0.8849999904632568
+      ],
+      "contact": {
+        "box": "/World/Environment/Boxes/Source/Box_003",
+        "mass_kg": 5.0,
+        "cup_plane_gaps_m": [
+          0.0028654786326751946,
+          0.002814645875333782,
+          0.0027081450569046706,
+          0.002657312299563258
+        ],
+        "normal_dot_down": 0.9999999002444464,
+        "footprint_inside": true,
+        "valid": true
+      }
+    },
+    {
+      "box": "/World/Environment/Boxes/Source/Box_011",
+      "start": [
+        0.2839987576007843,
+        1.0059961080551147,
+        1.1599994897842407
+      ],
+      "lift": [
+        0.2839827239513397,
+        1.0061112642288208,
+        1.4399585723876953
+      ],
+      "release": [
+        4.624306529876776e-05,
+        -1.1796494722366333,
+        0.9068695306777954
+      ],
+      "settled": [
+        0.1870938539505005,
+        -1.1795365810394287,
+        0.8849999904632568
+      ],
+      "contact": {
+        "box": "/World/Environment/Boxes/Source/Box_011",
+        "mass_kg": 5.0,
+        "cup_plane_gaps_m": [
+          0.0030079367002209534,
+          0.0029317469813172903,
+          0.002688915704969236,
+          0.0026127259860655727
+        ],
+        "normal_dot_down": 0.9999996272066816,
+        "footprint_inside": true,
+        "valid": true
+      }
+    },
+    {
+      "box": "/World/Environment/Boxes/Source/Box_007",
+      "start": [
+        -0.2840014696121216,
+        1.4739997386932373,
+        1.1599986553192139
+      ],
+      "lift": [
+        -0.28416508436203003,
+        1.4742136001586914,
+        1.439907431602478
+      ],
+      "release": [
+        -7.277358236024156e-05,
+        -1.1796929836273193,
+        0.907158613204956
+      ],
+      "settled": [
+        0.18683885037899017,
+        -1.1795649528503418,
+        0.8849999308586121
+      ],
+      "contact": {
+        "box": "/World/Environment/Boxes/Source/Box_007",
+        "mass_kg": 5.0,
+        "cup_plane_gaps_m": [
+          0.002596785018036868,
+          0.002783761820601499,
+          0.002261234750986524,
+          0.002448211553551155
+        ],
+        "normal_dot_down": 0.9999993664025186,
+        "footprint_inside": true,
+        "valid": true
+      }
+    }
+  ],
+  "suction_events": [
+    {
+      "box": "/World/Environment/Boxes/Source/Box_003",
+      "mass_kg": 5.0,
+      "cup_plane_gaps_m": [
+        0.0028654786326751946,
+        0.002814645875333782,
+        0.0027081450569046706,
+        0.002657312299563258
+      ],
+      "normal_dot_down": 0.9999999002444464,
+      "footprint_inside": true,
+      "valid": true,
+      "event": "attach"
+    },
+    {
+      "event": "release",
+      "box": "/World/Environment/Boxes/Source/Box_003",
+      "position": [
+        -1.806954423955176e-05,
+        -1.1797329187393188,
+        0.9069198966026306
+      ]
+    },
+    {
+      "box": "/World/Environment/Boxes/Source/Box_011",
+      "mass_kg": 5.0,
+      "cup_plane_gaps_m": [
+        0.0030079367002209534,
+        0.0029317469813172903,
+        0.002688915704969236,
+        0.0026127259860655727
+      ],
+      "normal_dot_down": 0.9999996272066816,
+      "footprint_inside": true,
+      "valid": true,
+      "event": "attach"
+    },
+    {
+      "event": "release",
+      "box": "/World/Environment/Boxes/Source/Box_011",
+      "position": [
+        4.624306529876776e-05,
+        -1.1796494722366333,
+        0.9068695306777954
+      ]
+    },
+    {
+      "box": "/World/Environment/Boxes/Source/Box_007",
+      "mass_kg": 5.0,
+      "cup_plane_gaps_m": [
+        0.002596785018036868,
+        0.002783761820601499,
+        0.002261234750986524,
+        0.002448211553551155
+      ],
+      "normal_dot_down": 0.9999993664025186,
+      "footprint_inside": true,
+      "valid": true,
+      "event": "attach"
+    },
+    {
+      "event": "release",
+      "box": "/World/Environment/Boxes/Source/Box_007",
+      "position": [
+        -7.277358236024156e-05,
+        -1.1796929836273193,
+        0.907158613204956
+      ]
+    }
+  ],
+  "physics_steps": 29245,
+  "physics_dt": 0.004166666666666667,
+  "scene": "/workspace/assets/environments/pixmo_depalletizing/pixmo_depalletizing.usd",
+  "contact_statistics": {
+    "reports": 220514,
+    "self_contact_reports": 0,
+    "pairs": {},
+    "max_penetration_m": 3.093831764999777e-05,
+    "penetration_pairs": {}
+  }
+}

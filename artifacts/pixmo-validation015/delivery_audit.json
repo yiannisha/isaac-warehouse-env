@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "complete_three_box_acceptance",
+      "passed": true
+    },
+    {
+      "name": "all_required_physical_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "assets_report_passes",
+      "passed": true
+    },
+    {
+      "name": "gui_report_passes",
+      "passed": true
+    },
+    {
+      "name": "reopen_report_passes",
+      "passed": true
+    },
+    {
+      "name": "multi_report_passes",
+      "passed": true
+    },
+    {
+      "name": "sources_report_passes",
+      "passed": true
+    },
+    {
+      "name": "reference_geometry_has_46_independent_cartons",
+      "passed": true
+    },
+    {
+      "name": "randomized_scene_has_multiple_instances",
+      "passed": true
+    },
+    {
+      "name": "input_configuration_matches",
+      "passed": true
+    },
+    {
+      "name": "primary_video_frames_and_provenance_present",
+      "passed": true
+    },
+    {
+      "name": "required_rendered_views_and_comparison",
+      "passed": true
+    },
+    {
+      "name": "isolated_archive_has_zero_missing_or_external_references",
+      "passed": true,
+      "missing": [],
+      "escaped": [],
+      "usd_layers": 16
+    },
+    {
+      "name": "archive_scene_units",
+      "passed": true
+    }
+  ],
+  "archive_sha256": "d8abb112d5fb55fba62b91c702d9043fc796fc76a813dec9175e0a27c75096ca",
+  "archive_bytes": 8965983
+}

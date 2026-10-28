@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "camera_preset_native_click",
+      "passed": true
+    },
+    {
+      "name": "base_velocity_native_click",
+      "passed": true,
+      "dx_m": 0.046674538403749466
+    },
+    {
+      "name": "pause_native_click",
+      "passed": true
+    },
+    {
+      "name": "resume_native_click",
+      "passed": true
+    }
+  ],
+  "before": {
+    "frame": 73,
+    "sim_time_s": 235.26666666666665,
+    "joints_rad": [
+      2.6332192420959473,
+      0.44874200224876404,
+      3.464630126953125,
+      0.00014629207726102322,
+      1.6966428756713867,
+      -2.6328814029693604
+    ],
+    "base": [
+      0.030002418905496597,
+      0.030005058273673058,
+      1.0132789611816406e-06
+    ],
+    "base_orientation": [
+      0.9997999668121338,
+      1.5511647854002396e-07,
+      3.509575851112415e-07,
+      0.02000065904686497
+    ],
+    "active_camera": "/World/Cameras/action",
+    "transfers": 3,
+    "message": "Ready"
+  },
+  "after": {
+    "frame": 76,
+    "sim_time_s": 237.98333333333332,
+    "joints_rad": [
+      2.633218765258789,
+      0.44874170422554016,
+      3.4646317958831787,
+      0.00014619730063714087,
+      1.6966439485549927,
+      -2.6328816413879395
+    ],
+    "base": [
+      0.0766698569059372,
+      0.03000619076192379,
+      2.682209014892578e-07
+    ],
+    "base_orientation": [
+      0.9997999668121338,
+      -1.2378618602003112e-07,
+      2.3502785620269967e-09,
+      0.020000659050162458
+    ],
+    "active_camera": "/World/Cameras/profile",
+    "transfers": 3,
+    "message": "Ready"
+  },
+  "method": "Native X11 input to the existing Isaac/noVNC desktop; telemetry observed independently."
+}
