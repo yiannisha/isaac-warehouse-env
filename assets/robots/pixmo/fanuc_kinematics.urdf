@@ -1,0 +1,57 @@
+<robot name="fanuc_crx30ia">
+  <link name="base_link" />
+  <link name="J1_link" />
+  <link name="J2_link" />
+  <link name="J3_link" />
+  <link name="J4_link" />
+  <link name="J5_link" />
+  <link name="J6_link" />
+  <link name="suction_tcp" />
+  <joint name="J1" type="revolute">
+    <parent link="base_link" />
+    <child link="J1_link" />
+    <origin xyz="0.0 0.0 0.3700000047683716" rpy="0 0 0" />
+    <axis xyz="0.0 0.0 1.0" />
+    <limit lower="-3.1398472178113552" upper="3.1398472178113552" effort="150" velocity="1.2" />
+  </joint>
+  <joint name="J2" type="revolute">
+    <parent link="J1_link" />
+    <child link="J2_link" />
+    <origin xyz="0.0 0.0 0.0" rpy="0 0 0" />
+    <axis xyz="0.0 1.0 0.0" />
+    <limit lower="-3.1398472178113552" upper="3.1398472178113552" effort="150" velocity="1.2" />
+  </joint>
+  <joint name="J3" type="revolute">
+    <parent link="J2_link" />
+    <child link="J3_link" />
+    <origin xyz="0.0 0.0 0.949999988079071" rpy="0 0 0" />
+    <axis xyz="0.0 -1.0 1.2246467991473532e-16" />
+    <limit lower="-4.71238898038469" upper="4.71238898038469" effort="150" velocity="1.2" />
+  </joint>
+  <joint name="J4" type="revolute">
+    <parent link="J3_link" />
+    <child link="J4_link" />
+    <origin xyz="0.0 0.0 0.0" rpy="0 0 0" />
+    <axis xyz="-1.0 1.2246467991473532e-16 0.0" />
+    <limit lower="-3.3161255787892263" upper="3.3161255787892263" effort="150" velocity="1.2" />
+  </joint>
+  <joint name="J5" type="revolute">
+    <parent link="J4_link" />
+    <child link="J5_link" />
+    <origin xyz="0.75 0.0 0.0" rpy="0 0 0" />
+    <axis xyz="0.0 -1.0 1.2246467991473532e-16" />
+    <limit lower="-3.1398472178113552" upper="3.1398472178113552" effort="150" velocity="1.2" />
+  </joint>
+  <joint name="J6" type="revolute">
+    <parent link="J5_link" />
+    <child link="J6_link" />
+    <origin xyz="0.0 -0.1850000023841858 0.0" rpy="0 0 0" />
+    <axis xyz="-1.0 1.2246467991473532e-16 0.0" />
+    <limit lower="-3.9269905506711327" upper="3.9269905506711327" effort="150" velocity="1.2" />
+  </joint>
+  <joint name="suction_mount" type="fixed">
+    <parent link="J6_link" />
+    <child link="suction_tcp" />
+    <origin xyz="0.3 0 0" rpy="0 0 0" />
+  </joint>
+</robot>

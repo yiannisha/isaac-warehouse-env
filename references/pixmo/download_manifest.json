@@ -1,0 +1,192 @@
+{
+  "fanuc_revision": "cedea1f1a598d1da8745635ee9d5ac291b89df64",
+  "wistia_id": "dgqj21im6b",
+  "files": [
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/.gitattributes",
+      "path": "assets/robots/pixmo/vendor/fanuc/.gitattributes",
+      "bytes": 3144,
+      "sha256": "6c35491b022f0b6ceb3f5eebf143a7b3d2bc737f992dabffba60e688a3a10d14"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/README.md",
+      "path": "assets/robots/pixmo/vendor/fanuc/README.md",
+      "bytes": 14767,
+      "sha256": "8dee335e4ec7ca7e0ac29d32e01989b59823c70c13393147b6aa8fe16f6bb701"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/.metadata/com.nvidia.simready.conformance.Package-Candidate@1.0.0.json",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/.metadata/com.nvidia.simready.conformance.Package-Candidate@1.0.0.json",
+      "bytes": 763,
+      "sha256": "d1a7296aad905d3937b886de458ea9454ffbde0d178884563702316d94f54e7b"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/.metadata/com.nvidia.simready.conformance.Package@1.0.0.json",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/.metadata/com.nvidia.simready.conformance.Package@1.0.0.json",
+      "bytes": 763,
+      "sha256": "c53582c6b8f97027b2901bb9ac7ad8d8cc0e17d7350e44c759cba9ae78376c81"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/.metadata/com.nvidia.simready.packaging.bom.json",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/.metadata/com.nvidia.simready.packaging.bom.json",
+      "bytes": 5693,
+      "sha256": "0c7746d2fb07a2790d6d9257ab7fbc267e60c01553bf631424959adb9cfd8565"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/.metadata/com.nvidia.simready.root_usds.json",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/.metadata/com.nvidia.simready.root_usds.json",
+      "bytes": 81,
+      "sha256": "a51aad745b7e9c5bb3fe0a36d813d70b4d902e71f46d152a5430b580545f55cf"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/.metadata/crx30ia_benchmark.json",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/.metadata/crx30ia_benchmark.json",
+      "bytes": 126605,
+      "sha256": "2ef056bc8a9de61f6adf97f1cac151dbbf8b9e25440e835a267f7cdf24887651"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/.metadata/crx30ia_validation.json",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/.metadata/crx30ia_validation.json",
+      "bytes": 8332,
+      "sha256": "7ad9c8aee2318840e365598ad5158c67d0a9d4c6339ff42cd4974cc20200afd7"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/com.nvidia.simready.packaging.json",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/com.nvidia.simready.packaging.json",
+      "bytes": 927,
+      "sha256": "365f7c5ebdfe438dc8a6dfd7b16ef8c947af8a92e768899357fc6922b08dafde"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/.thumbs/1024x1024/crx30ia.usd.png",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/.thumbs/1024x1024/crx30ia.usd.png",
+      "bytes": 93505,
+      "sha256": "db084b0a21d02ebc09d9d083b680eff3a6d0f557298ad35485ebf0dab82f05d1"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/.thumbs/256x256/crx30ia.usd.png",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/.thumbs/256x256/crx30ia.usd.png",
+      "bytes": 10491,
+      "sha256": "5dddcd9bf85c9e5f411b8b02f7a475a5d65e87e2e38d1b6b15152864e77926d7"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/configuration/crx30ia_base.usd",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/configuration/crx30ia_base.usd",
+      "bytes": 661,
+      "sha256": "ef9e06876d5429eed44c21b2111609c4c38b0177142f251afc0e17f882ede4ae"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/configuration/crx30ia_meshes.usd",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/configuration/crx30ia_meshes.usd",
+      "bytes": 6974108,
+      "sha256": "28d05c1a6fa35f39e7509fba94eda748d791dcc8dd252e31d0e37b540b051b23"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/configuration/crx30ia_physics.usd",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/configuration/crx30ia_physics.usd",
+      "bytes": 5674,
+      "sha256": "b6ed87dc2c2898de1fb4f2afc9353f8a39c360ad2a9aabffbf6898599bd924ca"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/configuration/crx30ia_robot.usd",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/configuration/crx30ia_robot.usd",
+      "bytes": 1407,
+      "sha256": "fda0ae68ccbadf953977a8b9c4fd8279379a97d7e3da9e9f84728db947416c0f"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/configuration/crx30ia_sensor.usd",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/configuration/crx30ia_sensor.usd",
+      "bytes": 646,
+      "sha256": "6ce53c7a7a6e7e55e5dc67c889fa6e4b495ba6e69ec0b43583944104ceb619dc"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/crx30ia.usd",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/crx30ia.usd",
+      "bytes": 5310,
+      "sha256": "2fcc753e0ea85d0146cbce52dd0ae3be77daf884d5fec4e028083cf89fc2caff"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/licenses/LICENSE.txt",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/licenses/LICENSE.txt",
+      "bytes": 10280,
+      "sha256": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/licenses/THIRD_PARTY_NOTICES.txt",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/licenses/THIRD_PARTY_NOTICES.txt",
+      "bytes": 1857,
+      "sha256": "3eacdfe85ccfe74f84541f8fcf4a5a0e42c3a31639c151e53a0abe047681096b"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/materials/mdl/OmniPBR.mdl",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/materials/mdl/OmniPBR.mdl",
+      "bytes": 13989,
+      "sha256": "d384fc800f120e3cad1b7ca8837f9c554f9c34343d194813fca27caa493001f2"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/materials/mdl/OmniPBRBase.mdl",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/materials/mdl/OmniPBRBase.mdl",
+      "bytes": 17274,
+      "sha256": "701f37299b44106842bdbe025de52eedec391e35b038f61c4ed4d25bd98e7db1"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/materials/mdl/OmniPBR_ClearCoat.mdl",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/materials/mdl/OmniPBR_ClearCoat.mdl",
+      "bytes": 27453,
+      "sha256": "687fce3f0693146b91495f04407a7c38c78f6b9262b63621f44b4b1f09110469"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/materials/mdl/nvidia/aux_definitions.mdl",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/materials/mdl/nvidia/aux_definitions.mdl",
+      "bytes": 101769,
+      "sha256": "ebb81c8977aeb30790399ec7aaa7f2f76cb23afb434f56201ef152aba45a6e81"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/materials/mdl/nvidia/core_definitions.mdl",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/materials/mdl/nvidia/core_definitions.mdl",
+      "bytes": 201537,
+      "sha256": "c003da6dee105918af22ba90d3fefd143046354e01508423db015cc25cff8360"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/materials/mdl/nvidia/support_definitions.mdl",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/materials/mdl/nvidia/support_definitions.mdl",
+      "bytes": 147454,
+      "sha256": "bb372f21b6e81d293b99fea6819a8309e2c33c732c7151752b4b33dade177f2e"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/runnables/physics/newton.usd",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/runnables/physics/newton.usd",
+      "bytes": 1724,
+      "sha256": "5db62bafb86f235cc22aabd3aca4db1077c6b57c922a4c1980520aa609e5afa3"
+    },
+    {
+      "url": "https://huggingface.co/datasets/FANUC-CORPORATION/SimReady-Assets/resolve/cedea1f1a598d1da8745635ee9d5ac291b89df64/crx30ia/simready_usd/runnables/physics/physx.usd",
+      "path": "assets/robots/pixmo/vendor/fanuc/crx30ia/simready_usd/runnables/physics/physx.usd",
+      "bytes": 1132,
+      "sha256": "64d45af045c67a994951a48c2a60745792d9bd326519ad439da2294d8aa9cb4d"
+    },
+    {
+      "url": "https://embed-ssl.wistia.com/deliveries/0c4cf5e75a662d2bb2b238eb5828a90b5bee445c.bin",
+      "path": "references/pixmo/reference.mp4",
+      "bytes": 27358084,
+      "sha256": "e311efb6a75a6fa2137fa73996f5572039f2eb519250d209a1c4718c666c011c"
+    },
+    {
+      "path": "references/pixmo/nvidia_pallet.usd",
+      "url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/6.0/Isaac/Props/Pallet/pallet.usd",
+      "bytes": 19577,
+      "sha256": "65be56cde3268b61e3a997efa2835e6b051f5b7ae199ca6e49a1ead9a1b4a281"
+    },
+    {
+      "path": "references/pixmo/pallet_diffuse.tga",
+      "url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/6.0/Isaac/Props/Pallet/Materials/Textures/FOF_Map_Palette_A_D.tga",
+      "bytes": 12582956,
+      "sha256": "b453d5eebc72792da2752cda9840015b940aa597a0dcbe2a94eb3e1fcf8896df"
+    },
+    {
+      "path": "references/pixmo/pallet_normal.tga",
+      "url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/6.0/Isaac/Props/Pallet/Materials/Textures/FOF_Map_Palette_A_N.tga",
+      "bytes": 12582956,
+      "sha256": "de49bbeb01291757377e6a894e0cc5b01f5127748ac7dc6abaafbf0e1c3cd7c4"
+    }
+  ]
+}

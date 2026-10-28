@@ -1,0 +1,830 @@
+[
+  {
+    "name": "Box_000",
+    "position": [
+      -0.28400000000000003,
+      1.006,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 0,
+    "path": "/World/Boxes/Source/Box_000",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_001",
+    "position": [
+      -0.28400000000000003,
+      1.006,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 1,
+    "path": "/World/Boxes/Source/Box_001",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_002",
+    "position": [
+      -0.28400000000000003,
+      1.006,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 2,
+    "path": "/World/Boxes/Source/Box_002",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_003",
+    "position": [
+      -0.28400000000000003,
+      1.006,
+      1.1609999999999998
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 3,
+    "sku": 0,
+    "path": "/World/Boxes/Source/Box_003",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_004",
+    "position": [
+      -0.28400000000000003,
+      1.474,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 1,
+    "path": "/World/Boxes/Source/Box_004",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_005",
+    "position": [
+      -0.28400000000000003,
+      1.474,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 2,
+    "path": "/World/Boxes/Source/Box_005",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_006",
+    "position": [
+      -0.28400000000000003,
+      1.474,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 0,
+    "path": "/World/Boxes/Source/Box_006",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_007",
+    "position": [
+      -0.28400000000000003,
+      1.474,
+      1.1609999999999998
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 3,
+    "sku": 1,
+    "path": "/World/Boxes/Source/Box_007",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_008",
+    "position": [
+      0.28400000000000003,
+      1.006,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 2,
+    "path": "/World/Boxes/Source/Box_008",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_009",
+    "position": [
+      0.28400000000000003,
+      1.006,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 0,
+    "path": "/World/Boxes/Source/Box_009",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_010",
+    "position": [
+      0.28400000000000003,
+      1.006,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 1,
+    "path": "/World/Boxes/Source/Box_010",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_011",
+    "position": [
+      0.28400000000000003,
+      1.006,
+      1.1609999999999998
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 3,
+    "sku": 2,
+    "path": "/World/Boxes/Source/Box_011",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_012",
+    "position": [
+      0.28400000000000003,
+      1.474,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 0,
+    "path": "/World/Boxes/Source/Box_012",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_013",
+    "position": [
+      0.28400000000000003,
+      1.474,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 1,
+    "path": "/World/Boxes/Source/Box_013",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_014",
+    "position": [
+      0.28400000000000003,
+      1.474,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 2,
+    "path": "/World/Boxes/Source/Box_014",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_015",
+    "position": [
+      0.28400000000000003,
+      1.474,
+      1.1609999999999998
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 3,
+    "sku": 0,
+    "path": "/World/Boxes/Source/Box_015",
+    "pallet": "Source"
+  },
+  {
+    "name": "Box_000",
+    "position": [
+      -1.934,
+      1.006,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 0,
+    "path": "/World/Boxes/StagingLeft/Box_000",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_001",
+    "position": [
+      -2.076,
+      1.006,
+      0.581
+    ],
+    "size": [
+      0.276,
+      0.46,
+      0.29
+    ],
+    "mass": 2.4642857142857144,
+    "layer": 1,
+    "sku": 1,
+    "path": "/World/Boxes/StagingLeft/Box_001",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_002",
+    "position": [
+      -1.65,
+      1.006,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 2,
+    "path": "/World/Boxes/StagingLeft/Box_002",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_003",
+    "position": [
+      -1.2239999999999998,
+      1.006,
+      0.581
+    ],
+    "size": [
+      0.276,
+      0.46,
+      0.29
+    ],
+    "mass": 2.4642857142857144,
+    "layer": 1,
+    "sku": 0,
+    "path": "/World/Boxes/StagingLeft/Box_003",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_004",
+    "position": [
+      -1.934,
+      1.006,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 1,
+    "path": "/World/Boxes/StagingLeft/Box_004",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_005",
+    "position": [
+      -1.934,
+      1.474,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 2,
+    "path": "/World/Boxes/StagingLeft/Box_005",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_006",
+    "position": [
+      -2.076,
+      1.474,
+      0.581
+    ],
+    "size": [
+      0.276,
+      0.46,
+      0.29
+    ],
+    "mass": 2.4642857142857144,
+    "layer": 1,
+    "sku": 0,
+    "path": "/World/Boxes/StagingLeft/Box_006",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_007",
+    "position": [
+      -1.65,
+      1.474,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 1,
+    "path": "/World/Boxes/StagingLeft/Box_007",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_008",
+    "position": [
+      -1.2239999999999998,
+      1.474,
+      0.581
+    ],
+    "size": [
+      0.276,
+      0.46,
+      0.29
+    ],
+    "mass": 2.4642857142857144,
+    "layer": 1,
+    "sku": 2,
+    "path": "/World/Boxes/StagingLeft/Box_008",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_009",
+    "position": [
+      -1.934,
+      1.474,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 0,
+    "path": "/World/Boxes/StagingLeft/Box_009",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_010",
+    "position": [
+      -1.3659999999999999,
+      1.006,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 1,
+    "path": "/World/Boxes/StagingLeft/Box_010",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_011",
+    "position": [
+      -1.3659999999999999,
+      1.006,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 2,
+    "path": "/World/Boxes/StagingLeft/Box_011",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_012",
+    "position": [
+      -1.3659999999999999,
+      1.474,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 0,
+    "path": "/World/Boxes/StagingLeft/Box_012",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_013",
+    "position": [
+      -1.3659999999999999,
+      1.474,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 1,
+    "path": "/World/Boxes/StagingLeft/Box_013",
+    "pallet": "StagingLeft"
+  },
+  {
+    "name": "Box_000",
+    "position": [
+      1.3659999999999999,
+      1.006,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 0,
+    "path": "/World/Boxes/StagingRight/Box_000",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_001",
+    "position": [
+      1.3659999999999999,
+      1.006,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 1,
+    "path": "/World/Boxes/StagingRight/Box_001",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_002",
+    "position": [
+      1.3659999999999999,
+      1.006,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 2,
+    "path": "/World/Boxes/StagingRight/Box_002",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_003",
+    "position": [
+      1.3659999999999999,
+      1.006,
+      1.1609999999999998
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 3,
+    "sku": 0,
+    "path": "/World/Boxes/StagingRight/Box_003",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_004",
+    "position": [
+      1.3659999999999999,
+      1.474,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 1,
+    "path": "/World/Boxes/StagingRight/Box_004",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_005",
+    "position": [
+      1.3659999999999999,
+      1.474,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 2,
+    "path": "/World/Boxes/StagingRight/Box_005",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_006",
+    "position": [
+      1.3659999999999999,
+      1.474,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 0,
+    "path": "/World/Boxes/StagingRight/Box_006",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_007",
+    "position": [
+      1.3659999999999999,
+      1.474,
+      1.1609999999999998
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 3,
+    "sku": 1,
+    "path": "/World/Boxes/StagingRight/Box_007",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_008",
+    "position": [
+      1.934,
+      1.006,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 2,
+    "path": "/World/Boxes/StagingRight/Box_008",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_009",
+    "position": [
+      1.934,
+      1.006,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 0,
+    "path": "/World/Boxes/StagingRight/Box_009",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_010",
+    "position": [
+      1.934,
+      1.006,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 1,
+    "path": "/World/Boxes/StagingRight/Box_010",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_011",
+    "position": [
+      1.934,
+      1.006,
+      1.1609999999999998
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 3,
+    "sku": 2,
+    "path": "/World/Boxes/StagingRight/Box_011",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_012",
+    "position": [
+      1.934,
+      1.474,
+      0.291
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 0,
+    "sku": 0,
+    "path": "/World/Boxes/StagingRight/Box_012",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_013",
+    "position": [
+      1.934,
+      1.474,
+      0.581
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 1,
+    "sku": 1,
+    "path": "/World/Boxes/StagingRight/Box_013",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_014",
+    "position": [
+      1.934,
+      1.474,
+      0.871
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 2,
+    "sku": 2,
+    "path": "/World/Boxes/StagingRight/Box_014",
+    "pallet": "StagingRight"
+  },
+  {
+    "name": "Box_015",
+    "position": [
+      1.934,
+      1.474,
+      1.1609999999999998
+    ],
+    "size": [
+      0.56,
+      0.46,
+      0.29
+    ],
+    "mass": 5.0,
+    "layer": 3,
+    "sku": 0,
+    "path": "/World/Boxes/StagingRight/Box_015",
+    "pallet": "StagingRight"
+  }
+]

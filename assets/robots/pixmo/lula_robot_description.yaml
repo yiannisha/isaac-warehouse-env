@@ -1,0 +1,7 @@
+api_version: 1.0
+cspace: [J1, J2, J3, J4, J5, J6]
+default_q: [0, -0.4, -1.5, 0, -1.2, 0]
+acceleration_limits: [2, 2, 2, 2, 2, 2]
+jerk_limits: [10, 10, 10, 10, 10, 10]
+cspace_to_urdf_rules: []
+collision_spheres: []
