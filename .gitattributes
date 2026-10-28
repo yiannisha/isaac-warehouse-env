@@ -1,0 +1,14 @@
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.usda text eol=lf
+*.usd binary
+*.usdc binary
+*.png binary
+*.jpg binary
+*.tga binary
+
+# Preserve third-party source bytes and their published checksums.
+assets/robots/pixmo/vendor/** -text
+assets/environments/pixmo_depalletizing/vendor/** -text
+rack_robotics/research/sources/** -text
